@@ -24,9 +24,9 @@ let readline = line.unwrap();
         }
 
         else {
-                println!("I'm feeling grumpy today, No greetings for you! {}", readline);
-                
+                println!("I'm feeling grumpy today, No greetings for you! {}", readline);                
             }
+            
         println!("Try again or Press Ctrl + Z to Exit");
     }
 }
